@@ -62,8 +62,8 @@ function selecionaElemento() {
 } 
 ```
 
-Frutas |  Doces  |Salgados|
--------|---------|--------|
-Banana |Chocolate|Coxinha |
-maçã   |  Bala   | Esfiha | 
-uva    | Bombom  | Pastel |
+|Frutas |  Doces  |Salgados|
+|-------|---------|--------|
+|Banana |Chocolate|Coxinha |
+|Maçã   |  Bala   | Esfiha | 
+|Uva    | Bombom  | Pastel |
