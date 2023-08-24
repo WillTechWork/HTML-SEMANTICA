@@ -14,6 +14,7 @@
 - Texto em **negrito** com asteriscos.
 - Texto em __negrito__ com underscore ou underline.
 - texto em _itálico_ com underscore.
+  
 - Acrescentando chaves [] Google Brasil, Colchetes (), dentro o nome do site.
 - Irá apresentar o nome do site como link com direcionamento.
   
