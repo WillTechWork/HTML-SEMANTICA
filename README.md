@@ -12,7 +12,7 @@
 
 - Guia de marcadores: The Markdown: list of commands markdown.
 - Texto em **negrito** com asteriscos.
-- Texto em __negrito__ com underscore ou underline.
+- Texto em __negrito__ com underscore/underline.
 - texto em _itálico_ com underscore.
   
 - Acrescentando chaves [] Google Brasil, Colchetes (), dentro o nome do site.
