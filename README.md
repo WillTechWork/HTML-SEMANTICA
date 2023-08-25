@@ -1,6 +1,6 @@
 # HTML-SEMANTICA - Dando sentido a linguagem HTML
 
-# HTML-SEMANTICA, FORMAS DE ESCREVER NA LINGUAGEM HTML
+# HTML-SEMANTICA, Formas de escrever
 
 - Dando vida a estrutura HTML: Entendo o significado das Tags.
 - Pode-se controlar o tamanho com hashtag às linhas de códigos, como por exemplo: de H1 a H6.
