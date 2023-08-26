@@ -5,10 +5,11 @@
 </div>
 
 ### `✨HTML-SEMANTICA, Formas de escrever`
-
-> **Dando vida a estrutura HTML: Entendo o significado das Tags.**
-> **Pode-se controlar o tamanho com hashtag às linhas de códigos, como por exemplo: de H1 a H6.**
-> **Exemplo abaixo:**
+```
+ **Dando vida a estrutura HTML: Entendo o significado das Tags.**
+ **Pode-se controlar o tamanho com hashtag às linhas de códigos, como por exemplo: de H1 a H6.**
+ **Exemplo abaixo:**
+```
   
 ## `💫Modelos de títulos`
 
