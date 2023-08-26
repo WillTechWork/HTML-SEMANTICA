@@ -59,9 +59,10 @@ function selecionaElemento() {
 } 
 ```
 ## `💫Adicionar uma citação:`
-> Acrescentar uma citação coloca o sinal de maior na linguagem lógica de programação
-> Albert Einstein foi um físico teórico alemão, que desenvolveu a teoria da relatividade geral, um dos pilares da física moderna ao lado da mecânica quântica.
-
+```
+> Acrescentar uma citação coloca o sinal de maior como na lógica de programação.
+> Citação: Albert Einstein foi um físico teórico alemão, que desenvolveu a teoria da relatividade geral, um dos pilares da física moderna ao lado da mecânica quântica.
+```
 ## `💫Adicionar link para web site`
 > Acrescentando colchetes [Texto do link, ou seja, o nome!] Google Brasil, parênteses (https://google.com.br) dentro o nome do site.
 > Irá apresentar o nome do site como link com direcionamento.
