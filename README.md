@@ -1,7 +1,7 @@
 # `🌟HTML- A SEMÂNTICA - Dando sentido na estrutura em linguagem HTML🌟`
 <div align="center">
  
-![Logo-Ford](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDsPXB0okM_-sFjJ6L5ziASru0K4-Snyuhg&usqp=CAU)
+![Logo-Ford](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGDshYB1VGo9GgC8mgUq7gO9PL3aZ_mZ5hQ&usqp=CAU)
 </div>
 
 ### `✨HTML-SEMANTICA, Formas de escrever`
