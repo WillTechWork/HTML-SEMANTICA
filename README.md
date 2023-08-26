@@ -25,14 +25,19 @@ Título Ex:<h2>
 ### **`🔥OBS`:** Quando colocamos 3 traços, acrescentamos uma linha horizontal.
 
  ## `💫Guia de formatação: The Markdown: list of commands markdown`
-> Texto em **negrito** com asteriscos.
+```
+Texto em **negrito** com asteriscos.
 
-> Texto em __negrito__ com underline.
+Texto em __negrito__ com underline.
 
-> Texto em *itálico* com asterisco.
+Texto em *itálico* com asterisco.
 
-> Texto __combinado__ com *underline* e asterico.
+Texto __combinado__ com *underline* e asterico.
 
+==Um texto em destaque.==
+
+~~Um texto riscado.~~
+```
 
  ## `💫Marcador de código`
 
@@ -82,8 +87,15 @@ function selecionaElemento() {
  -----------------------------------------------
 <br>
 
-## `🥙Lista: ingredientes para o almoço`
 
+## `Marcadores diferentes para listas`
+```
+- Traço
+* Asterisco
++ Sinal de mais
+```
+
+## `🥙Lista: ingredientes para o almoço`
  1. Arroz Japonês
  2. Momiji
  3. Shimeji
