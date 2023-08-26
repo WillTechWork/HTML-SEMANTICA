@@ -80,6 +80,7 @@ function selecionaElemento() {
 <br>
 
 ## `🥙Lista: ingredientes para o almoço`
+
 - Arroz Japonês
 - Momiji
 - Shimeji
@@ -88,7 +89,6 @@ function selecionaElemento() {
 - Pepino
 - Gergelim
 - Salmão
-<br>
    
 ## `🍓Lista da feira`
 * Banana
@@ -101,11 +101,11 @@ function selecionaElemento() {
 
 ## `🏹Lista de tarefas - Ordenada`
 
-1. Escovar os dentes
-2. Arrumar a cama
-3. Varrer a casa
-4. Lavar roupa
-5. Estender a roupa
+1.  Escovar os dentes
+2.  Arrumar a cama
+3.  Varrer a casa
+4.  Lavar roupa
+5.  Estender a roupa
    
 
 
