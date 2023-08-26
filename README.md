@@ -122,6 +122,13 @@ function selecionaElemento() {
 3. Varrer a casa
 4. Lavar roupa
 5. Estender a roupa
+
+## `🏹Gerenciador de tarefas - outro exemplo`
+- [x] #etiquetas, [links](), **formatação** são suportados
+- [x] Este é um item completo
+- [?] Este também, funciona com qualquer caracter
+- [ ] Este é um item imcompleto
+- [ ] Tarefas podem ser marcadas no modo edição ou visualização
    
 
 
