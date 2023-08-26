@@ -33,6 +33,7 @@ Título Ex:<h2>
 
 > Texto __combinado__ com *underline* e asterico.
 
+
  ## `💫Marcador de código`
 
 > Utilizando aspas triplas conseguimos abrir a marcação de código, utilizando `while do` como exemplo abaixo:
