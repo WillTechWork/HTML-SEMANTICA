@@ -5,11 +5,11 @@
 </div>
 
 ### `✨HTML-SEMANTICA, Formas de escrever`
-```
+
  Dando vida a estrutura HTML: Entendo o significado das Tags.
  Pode-se controlar o tamanho com hashtag às linhas de códigos, como por exemplo: de H1 a H6.
  Exemplo abaixo:
-```
+
   
 ## `💫Modelos de títulos`
 
@@ -23,7 +23,7 @@ Título Ex:<h1>
 ===
 Título Ex:<h2>
 ---
-### **`🔥OBS`:** Quando colocamos 3 traços, acrescentamos uma linha horizontal.
+## `🔥OBS: Quando colocamos 3 traços, acrescentamos uma linha horizontal.`
 
  ## `💫Guia de formatação: The Markdown: list of commands markdown`
 ```
@@ -41,10 +41,10 @@ Texto __combinado__ com *underline* e asterico.
 ```
 
  ## `💫Marcador de código`
-```
-Utilizando aspas triplas conseguimos abrir a marcação de código, utilizando `while do` como exemplo abaixo:
-Ao lado da primeira aspas triplas se coloca o nome da linguagem, que caracteriza um efeito bem legal, até mesmo indica a linguagem:
-```
+ 
+`Utilizando aspas triplas conseguimos abrir a marcação de código, utilizando `while do` como exemplo abaixo:
+Ao lado da primeira aspas triplas se coloca o nome da linguagem, que caracteriza um efeito bem legal, até mesmo indica a linguagem:`
+
 ```javascript
 while do
 print("olá")
@@ -84,8 +84,8 @@ function selecionaElemento() {
  ------------------------------------------------
 | **`Código`**| **`Nome`**      | **`Preço`**   |
 |:-----------:|:---------------:|:-------------:|
-|    **1**    |     **Apple iPad**    |**R$10.500,00** |
-|    **2**    |    **Computador**   |**R$5.700,00** |
+|    **1**    | **Apple iPad**  |**R$10.500,00**|
+|    **2**    | **Computador**  |**R$5.700,00** |
  -----------------------------------------------
 <br>
 
