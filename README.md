@@ -133,11 +133,12 @@ function selecionaElemento() {
 - [ ] Tarefas podem ser marcadas no modo edição ou visualização
 
 ## `🏹 Matemática - escrevendo equações`
-```Para escrevermos equações matemáticas na semântica do HTML, devemos acrescentar
+```
+Para escrevermos equações matemáticas na semântica do HTML, devemos acrescentar
 primeiramente o símbolo de dolar ($). Apesar de haver, a simples e a dupla. Vejamos
 a seguir às diferenças:
-> Esquações menores por exemplo: $10 + 10 = 20$
-> Equações maiores por exemplo: $$\frac{5^5+5^5}{5}$$
+Esquações menores por exemplo: $10 + 10 = 20$
+Equações maiores por exemplo: $$\frac{5^5+5^5}{5}$$
 ```
 > **Exemplo: Equação em linha**
 $10 + 10 = 20$
