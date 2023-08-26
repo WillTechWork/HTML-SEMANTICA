@@ -1,4 +1,4 @@
-# `🌟HTML- A SEMÂNTICA - Dando sentido na estrutura em linguagem HTML🌟`
+# `🌟HTML- A SEMANTICA: MARKDOWN - Dando sentido na estrutura em linguagem HTML🌟`
 <div align="center">
  
 ![Logo-Ford](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGDshYB1VGo9GgC8mgUq7gO9PL3aZ_mZ5hQ&usqp=CAU)
