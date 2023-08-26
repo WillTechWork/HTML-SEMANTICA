@@ -1,4 +1,4 @@
-# `🌟HTML-A SEMÂNTICA - Dando sentido na estrutura em linguagem HTML🌟`
+# `🌟HTML- A SEMÂNTICA - Dando sentido na estrutura em linguagem HTML🌟`
 <div align="center">
  
 ![Foto da varinha do Harry-Potter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-klPwSgj-aCKUMQgkn40XOGkF5B-WHY_Eug&usqp=CAU)
