@@ -146,19 +146,19 @@ $10 + 10 = 20$
 $$\frac{5^5+5^5}{5}$$
 
 ## `✨ Adicionando notas de rodapé `
-
+```
 Aqui está uma nota de rodapé simples[^1]. Aqui está uma nota de rodapé mais elaborada[^bignote]. [^1]: Esta é a primeira nota de rodapé.
 [^bignote]: Aqui está uma com vários parágrafos e código. Recuar parágrafos para incluí-los na nota de rodapé.
 {meu código}Adicione quantos parágrafos desejar.
 
-`A rederizaçã o em HTML fica assim:
+A rederizaçã o em HTML fica assim:
 Aqui está uma nota de rodapé simples1. Aqui está uma nota de rodapé mais elaborada2.
 Esta é a primeira nota de rodapé. ↩
 Aqui está um com vários parágrafos e código.
 Recuar parágrafos para incluí-los na nota de rodapé.
 { meu código }
-Adicione quantos parágrafos desejar. ↩`
-
+Adicione quantos parágrafos desejar. ↩
+```
 ## `🎦 Embutir conteúdos como: Áudio, Imagem, Vídeos etc.`
 ```
 Para realizarmos o procedimento de embutir esses tipo de documentos no markdown, apenas utilizar exclamação e colchetes. Por exemplo:![Descrição](Conteúdo)
