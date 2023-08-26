@@ -24,12 +24,14 @@ Título Ex:<h2>
 ---
 ### **`🔥OBS`:** Quando colocamos 3 traços, acrescentamos uma linha horizontal.
 
- ## `💫Guia de marcadores: The Markdown: list of commands markdown`
+ ## `💫Guia de formatação: The Markdown: list of commands markdown`
 > Texto em **negrito** com asteriscos.
 
 > Texto em __negrito__ com underline.
 
-> texto em *itálico* com asterisco.
+> Texto em *itálico* com asterisco.
+
+> Texto __combinado__ com *underline* e asterico.
 
  ## `💫Marcador de código`
 
