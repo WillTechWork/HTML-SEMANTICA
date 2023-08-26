@@ -144,6 +144,12 @@ a seguir às diferenças:
 $10 + 10 = 20$
 $$\frac{5^5+5^5}{5}$$
 
+## `🎦 Embutir conteúdos como: Áudio, Imagem, Vídeos etc.`
+```
+Para realizarmos o procedimento de embutir esses tipo de documentos
+no markdown, apenas utilizar exclamação e colchetes. Por exemplo:![Descrição](Conteúdo)
+```
+
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 <div align="center">
  
