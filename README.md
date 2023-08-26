@@ -1,7 +1,7 @@
 # `🌟HTML- A SEMÂNTICA - Dando sentido na estrutura em linguagem HTML🌟`
 <div align="center">
  
-![Foto da varinha do Harry-Potter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-klPwSgj-aCKUMQgkn40XOGkF5B-WHY_Eug&usqp=CAU)
+![Logo-Ford](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDsPXB0okM_-sFjJ6L5ziASru0K4-Snyuhg&usqp=CAU)
 </div>
 
 ### `✨HTML-SEMANTICA, Formas de escrever`
@@ -65,7 +65,7 @@ function selecionaElemento() {
  
  **Adicionando sinal de exclamação mais colchete, em colchetes se coloca a descrição e parênteses o endereço url da foto. Exemplo:**
  
- ![Perfil-Foto](https://img.elo7.com.br/product/600x380/20B0961/asas-pomo-de-ouro-pomo-de-ouro-harry-potter.jpg)
+ ![Foto-HP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-klPwSgj-aCKUMQgkn40XOGkF5B-WHY_Eug&usqp=CAU)
   </center>
   <br>
 
