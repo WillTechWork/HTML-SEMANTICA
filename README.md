@@ -82,15 +82,15 @@ function selecionaElemento() {
 ## `🥙Lista: ingredientes para o almoço`
 
 - Arroz Japonês
-- Momiji
+-  Momiji
 - Shimeji
-- Nori
+-  Nori
 - Shoyu
-- Pepino
+-  Pepino
 - Gergelim
-- Salmão
+-  Salmão
    
-## `🍓Lista da feira`
+## `🍓Lista da feira - Não Ordenada`
 * Banana
 * Abacate
 * Tomate
