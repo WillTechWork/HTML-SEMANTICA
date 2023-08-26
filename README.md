@@ -90,7 +90,7 @@ function selecionaElemento() {
 - Gergelim
 -  Salmão
    
-## `🍓Lista da feira - Não Ordenada`
+## `🍓Lista da feira - não ordenada`
 * Banana
 * Abacate
 * Tomate
@@ -99,7 +99,7 @@ function selecionaElemento() {
 * Mexerica
 *  Alface
 
-## `🏹Lista de tarefas - Ordenada`
+## `🏹Lista de tarefas - ordenada`
 
 1.  Escovar os dentes
 2.  Arrumar a cama
