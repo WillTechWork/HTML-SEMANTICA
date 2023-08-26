@@ -26,7 +26,9 @@ Título Ex:<h2>
 
  ## `💫Guia de marcadores: The Markdown: list of commands markdown`
 > Texto em **negrito** com asteriscos.
-> Texto em __negrito__ com underscore/underline.
+
+> Texto em __negrito__ com underline.
+
 > texto em *itálico* com asterisco.
 
  ## `💫Marcador de código`
@@ -105,6 +107,6 @@ Salmão
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 <div align="center">
  
-> **`🌟Créditos:`** **`WillTechWork🌟`**
+ **`🌟Créditos:`** **`WillTechWork🌟`**
 </div>
 
