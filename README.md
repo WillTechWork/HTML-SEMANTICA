@@ -1,4 +1,4 @@
-# HTML-SEMANTICA - A mágica de escrever em linguagem HTML ;)
+# HTML-SEMANTICA - Dando sentido na estrutura em linguagem HTML ;)
 <div align="center">
  
 ![Foto da varinha do Harry-Potter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-klPwSgj-aCKUMQgkn40XOGkF5B-WHY_Eug&usqp=CAU)
@@ -58,7 +58,7 @@ function selecionaElemento() {
 
 ## Adicionando foto - Markdown
 - Adiciona sinal de exclamação mais colchete, em colchetes se coloca a descrição e parênteses o endereço url da foto. Exemplo:
-- ![Perfil-Foto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRboMO5N1QHAuHafrCbwqEyTeiLKe7qfL4Cfg&usqp=CAU)
+- ![Perfil-Foto](https://img.elo7.com.br/product/600x380/20B0961/asas-pomo-de-ouro-pomo-de-ouro-harry-potter.jpg)
 
 ## Adicionando tabela e orçamento
 - Abri barra vertical no teclado, coloca o nome em cada uma delas, ou seja, o título e depois traços para alinhar às linhas.
