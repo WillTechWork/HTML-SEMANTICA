@@ -85,10 +85,10 @@ function selecionaElemento() {
  2. Momiji
  3. Shimeji
  4.  Nori
-   +  Shoyu
-   + Pepino
-   + Gergelim
-   + Salmão
+  + Shoyu
+  + Pepino
+  + Gergelim
+  + Salmão
    
 ## `🍓Lista da feira - não ordenada`
 * Banana
