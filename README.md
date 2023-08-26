@@ -61,10 +61,10 @@ function selecionaElemento() {
 } 
 ```
 ## `💫Adicionar uma citação:`
-```
+
 > Acrescentar uma citação coloca o sinal de maior como na lógica de programação.
 > Citação: Albert Einstein foi um físico teórico alemão, que desenvolveu a teoria da relatividade geral, um dos pilares da física moderna ao lado da mecânica quântica.
-```
+
 ## `💫Adicionar link para web site`
 > Acrescentando colchetes [Texto do link, ou seja, o nome!] Google Brasil, parênteses (https://google.com.br) dentro o nome do site.
 > Irá apresentar o nome do site como link com direcionamento.
@@ -140,9 +140,29 @@ a seguir às diferenças:
 + Esquações menores por exemplo: $10 + 10 = 20$
 + Equações maiores por exemplo: $$\frac{5^5+5^5}{5}$$
 ```
+
 > **Exemplo: Equação em linha**
 $10 + 10 = 20$
 $$\frac{5^5+5^5}{5}$$
+
+## `✨ Adicionando notas de rodapé `
+```
+Aqui está uma nota de rodapé simples[^1]. Aqui está uma nota de rodapé mais elaborada[^bignote].
+[^1]: Esta é a primeira nota de rodapé.
+[^bignote]: Aqui está uma com vários parágrafos e código.
+Recuar parágrafos para incluí-los na nota de rodapé.
+`{ meu código }`
+Adicione quantos parágrafos desejar.
+```
+```
+`A rederização em HTML fica assim:
+Aqui está uma nota de rodapé simples1. Aqui está uma nota de rodapé mais elaborada2.
+Esta é a primeira nota de rodapé. ↩
+Aqui está um com vários parágrafos e código.
+Recuar parágrafos para incluí-los na nota de rodapé.
+{ meu código }
+Adicione quantos parágrafos desejar. ↩`
+```
 
 ## `🎦 Embutir conteúdos como: Áudio, Imagem, Vídeos etc.`
 ```
