@@ -70,38 +70,44 @@ function selecionaElemento() {
   <br>
 
 ## `🌟Adicionando tabela e orçamento`
-> Abrir barra vertical no teclado, coloca o nome em cada uma delas, ou seja, o título e depois traços para alinhar às linhas.
+ **Abrir barra vertical no teclado, coloca o nome em cada uma delas, ou seja, o título e depois traços para alinhar às linhas.**
  ------------------------------------------------
 | **`Código`**| **`Nome`**      | **`Preço`**   |
 |:-----------:|:---------------:|:-------------:|
 |    **1**    |     **Apple iPad**    |**R$10.500,00** |
 |    **2**    |    **Computador**   |**R$5.700,00** |
  -----------------------------------------------
-  
+<br>
+
 ## `🥙Lista: ingredientes para o almoço`
-Arroz Japonês
-Momiji
-Tanaka
-Nori
-Shoyu
-Pepino
-Gergelim
-Salmão
+- Arroz Japonês
+- Momiji
+- Shimeji
+- Nori
+- Shoyu
+- Pepino
+- Gergelim
+- Salmão
+<br>
    
 ## `🍓Lista da feira`
 * Banana
- * Abacate
+* Abacate
 * Tomate
- * Beringela
+* Beringela
 * Batata doce
- * Mexerica
-* Alface
+* Mexerica
+*  Alface
 
-## `🏹Lista de tarefas`
- 1.Estudar
- 2. Parafusar a tomada do quarto
- 3. Passear com o cachorro
- 4. Escutar música
+## `🏹Lista de tarefas - Ordenada`
+
+1. Escovar os dentes
+2. Arrumar a cama
+3. Varrer a casa
+4. Lavar roupa
+5. Estender a roupa
+   
+
 
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 <div align="center">
