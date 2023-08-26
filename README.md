@@ -81,14 +81,14 @@ function selecionaElemento() {
 
 ## `🥙Lista: ingredientes para o almoço`
 
-- Arroz Japonês
--  Momiji
-- Shimeji
--  Nori
-- Shoyu
--  Pepino
-- Gergelim
--  Salmão
+ 1. Arroz Japonês
+ 2. Momiji
+ 3. Shimeji
+ 4.  Nori
+   +  Shoyu
+   + Pepino
+   + Gergelim
+   + Salmão
    
 ## `🍓Lista da feira - não ordenada`
 * Banana
@@ -101,11 +101,11 @@ function selecionaElemento() {
 
 ## `🏹Lista de tarefas - ordenada`
 
-1.  Escovar os dentes
-2.  Arrumar a cama
-3.  Varrer a casa
-4.  Lavar roupa
-5.  Estender a roupa
+1. Escovar os dentes
+2. Arrumar a cama
+3. Varrer a casa
+4. Lavar roupa
+5. Estender a roupa
    
 
 
