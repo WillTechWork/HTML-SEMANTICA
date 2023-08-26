@@ -74,7 +74,7 @@ function selecionaElemento() {
  ------------------------------------------------
 | **`Código`**| **`Nome`**      | **`Preço`**   |
 |:-----------:|:---------------:|:-------------:|
-|    **1**    |     **iPad**    |**R$3.500,00** |
+|    **1**    |     **Apple iPad**    |**R$10.500,00** |
 |    **2**    |    **Computador**   |**R$5.700,00** |
  -----------------------------------------------
   
@@ -98,11 +98,10 @@ Salmão
 * Alface
 
 ## `🏹Lista de tarefas`
-
-1. Estudar
-2. Parafusar a tomada do quarto
-3. Passear com o cachorro
-4. Escutar música
+ 1.Estudar
+ 2. Parafusar a tomada do quarto
+ 3. Passear com o cachorro
+ 4. Escutar música
 
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 <div align="center">
