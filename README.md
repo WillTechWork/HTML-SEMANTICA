@@ -92,11 +92,13 @@ function selecionaElemento() {
 
 
 ## `Marcadores diferentes para listas`
+
 ```
 - Traço
 * Asterisco
 + Sinal de mais
 ```
+
 
 ## `🥙Lista: ingredientes para o almoço`
  1. Arroz Japonês
