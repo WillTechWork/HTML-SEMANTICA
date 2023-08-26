@@ -96,7 +96,9 @@ function selecionaElemento() {
 3. Passear com o cachorro
 4. Escutar música
 
-![Cachorrinho](https://pipz.com/static/images/blog/eddie.png)
-
-> Não faltem! (João Marcos)
+![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
+<div align="center">
+ 
+> **`Créditos:`** **`WillTechWork`**
+</div>
 
