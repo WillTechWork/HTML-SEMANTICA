@@ -22,7 +22,7 @@
   
   <https://google.com.br>
   
-# Lista: ingredientes para o almoço:
+# Lista: ingredientes para o almoço
 
 * Arroz Japonês
  * Momiji
@@ -33,7 +33,7 @@
 * Gergelim
  * Salmão
    
-# Lista da feira:
+# Lista da feira
 * Banana
  * Abacate
 * Tomate
@@ -42,7 +42,7 @@
  * Mexerica
 * Alface
 
-# Lista de tarefas:
+# Lista de tarefas
 
 1. Estudar
 2. Parafusar a tomada do quarto
