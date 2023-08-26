@@ -61,8 +61,8 @@ function selecionaElemento() {
 ## 💫`Adicionando foto - Markdown`
 <div align="center">
  
-- Adiciona sinal de exclamação mais colchete, em colchetes se coloca a descrição e parênteses o endereço url da foto. Exemplo:
-- ![Perfil-Foto](https://img.elo7.com.br/product/600x380/20B0961/asas-pomo-de-ouro-pomo-de-ouro-harry-potter.jpg)
+ **Adicionando sinal de exclamação mais colchete, em colchetes se coloca a descrição e parênteses o endereço url da foto. Exemplo:**
+ ![Perfil-Foto](https://img.elo7.com.br/product/600x380/20B0961/asas-pomo-de-ouro-pomo-de-ouro-harry-potter.jpg)
   </center>
   <br>
 
