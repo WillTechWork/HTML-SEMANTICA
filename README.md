@@ -125,13 +125,13 @@ function selecionaElemento() {
 5. Estender a roupa
 
 ## `🏹Gerenciador de tarefas - outro exemplo`
-```
+
 - [x] #etiquetas, [links](), **formatação** são suportados
 - [x] Este é um item completo
 - [?] Este também, funciona com qualquer caracter
 - [ ] Este é um item imcompleto
 - [ ] Tarefas podem ser marcadas no modo edição ou visualização
-```
+
 
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 <div align="center">
