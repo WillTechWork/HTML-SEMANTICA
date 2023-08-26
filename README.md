@@ -6,11 +6,11 @@
 </div>
 
 ### `✨HTML-SEMANTICA, Formas de escrever`
-
+```
  Dando vida a estrutura HTML: Entendo o significado das Tags.
  Pode-se controlar o tamanho com hashtag às linhas de códigos, como por exemplo: de H1 a H6.
  Exemplo abaixo:
-
+```
   
 ## `💫Modelos de títulos`
 
@@ -74,7 +74,7 @@ function selecionaElemento() {
 ## `💫Adicionando foto - Markdown`
 <div align="center">
  
- **Adicionando sinal de exclamação mais colchete, em colchetes se coloca a descrição e parênteses o endereço url da foto. Exemplo:**
+ > **Adicionando sinal de exclamação mais colchete, em colchetes se coloca a descrição e parênteses o endereço url da foto. Exemplo:**
  
  ![Foto-HP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-klPwSgj-aCKUMQgkn40XOGkF5B-WHY_Eug&usqp=CAU)
   </center>
@@ -116,7 +116,7 @@ function selecionaElemento() {
 * Mexerica
 *  Alface
 
-## `🏹Lista de tarefas - ordenada`
+## `🏹 Lista de tarefas - ordenada`
 
 1. Escovar os dentes
 2. Arrumar a cama
@@ -124,7 +124,7 @@ function selecionaElemento() {
 4. Lavar roupa
 5. Estender a roupa
 
-## `🏹Gerenciador de tarefas - outro exemplo`
+## `🏹 Gerenciador de tarefas - outro exemplo`
 
 - [x] #etiquetas, [links](), **formatação** são suportados
 - [x] Este é um item completo
@@ -132,6 +132,17 @@ function selecionaElemento() {
 - [ ] Este é um item imcompleto
 - [ ] Tarefas podem ser marcadas no modo edição ou visualização
 
+## `🏹 Matemática - escrevendo equações`
+```
+Para escrevermos equações matemáticas na semântica do HTML, devemos acrescentar
+primeiramente o símbolo de dolar ($). Apesar de haver, a simples e a dupla. Vejamos
+a seguir às diferenças:
+> Esquações menores por exemplo: $10 + 10 = 20$
+> Equações maiores por exemplo: $$\frac{5^5+5^5}{5}$$
+```
+> **Exemplo: Equação em linha**
+$10 + 10 = 20$
+$$\frac{5^5+5^5}{5}$$
 
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 <div align="center">
