@@ -190,13 +190,15 @@ O GitHub é um servidor na nuvem que armazena os seus códigos.
 </html>
 ```
 ## Podemos classificar a linguagem html, por exemplo:
----------------------------------------------------
-| Linguagem                 | Atributo            |
-| Espanhol                    | Lang=”es”         |
-| Francês                      | Lang=”fr”          |
-| Inglês                         | Lang=”en”         |
-| Inglês Britânico        | Lang=”en-GB”  |
-----------------------------------------------------
+
+-----------------------------------
+| Linguagem        | Atributo     |
+|:----------------:|------------: |
+| Espanhol         | Lang=”es”    |              
+| Francês          | Lang=”fr”    |
+| Inglês           | Lang=”en”    |
+| Inglês Britânico | Lang=”en- GB”|                                      
+-----------------------------------
 
 ## `Tags html, a seguir e seus significados`
 ```
@@ -222,7 +224,7 @@ O GitHub é um servidor na nuvem que armazena os seus códigos.
    + Conteúdo apresentado ao visitante, escopo, ou seja, o corpo do projeto.
  ```	
 ## Tags semânticas
-- Tornam o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
+- Torna o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
 - O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
 
 
