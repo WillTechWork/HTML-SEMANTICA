@@ -189,6 +189,41 @@ O GitHub é um servidor na nuvem que armazena os seus códigos.
 - “PT-br” – português do Brasil. 
 </html>
 ```
+## Podemos classificar a linguagem html, por exemplo:
+| Linguagem                 | Atributo            |
+| Espanhol                    | Lang=”es”         |
+| Francês                      | Lang=”fr”          |
+| Inglês                         | Lang=”en”         |
+| Inglês Britânico        | Lang=”en-GB”  |
+
+## `Tags html, a seguir e seus significados`
+```
+- Tag <head></head>
+  + 
+- Tag <read></read>
+  +  Informações sobre a página.
+- Tag <meta>
+   + Define as informações;
+   + Conjunto de caracteres;
+   +  Descrição da página;
+   +  Palavras chaves;
+   + Autor do documento;
+   + Configuração de janela de visualização.
+ - Tag <meta charset=”utf-8”>
+   + Conjunto de caracteres.
+   + UTF-8 (UCS Transformation Format 8)
+ - Tag <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+   + Configuração da janela de visualização
+ - Tag <tittle></tittle>
+   + Define o título que vai aparecer no navegador
+ - Tag <body></body>
+   + Conteúdo apresentado ao visitante, escopo, ou seja, o corpo do projeto.
+ 	
+```
+## Tags semânticas
+- Tornam o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
+- O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
+
 
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 <div align="center">
