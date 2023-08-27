@@ -164,6 +164,20 @@ Adicione quantos parágrafos desejar. ↩
 Para realizarmos o procedimento de embutir esses tipo de documentos no markdown, apenas utilizar exclamação e colchetes. Por exemplo:![Descrição](Conteúdo)
 ```
 
+## `😻 GitHub`
+```
+O Github: é uma plataforma de repositório de código e pode estar de forma remota na nuvem ou local na máquina, ele nos ajuda também realizar o clone do projeto e empacota todo o trabalho realizado dentro de um commit ou mais de um commit. Então, você envia todos esses pacotes para um repositório remoto utilizando o push.
+Ao utilizar um repositório que foi alterado por outro desenvolvedor, para que possamos atualizar esse código com novas informações. De vez de clonarmos o projeto, nós utilizamos o comando: git pull.
+Após esse processo realizamos novas atualizações com novas ideias, empacotamos e enviamos novamente para o repositório com o comando: git push.
+OBS: Assim que vários programadores forem atualizando e melhorando os repositórios com novas melhorias. É comum que esses programadores realizem o comando: git pull request, para serem melhorados ao repositório principal, onde realizamos o comando: git merge e assim serem.
+```
+## `Diferença de Git para GitHub`
+```
+O Git é um programa que realiza o versionamento dos códigos.
+O GitHub é um servidor na nuvem que armazena os seus códigos.
+
+```
+
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 <div align="center">
  
