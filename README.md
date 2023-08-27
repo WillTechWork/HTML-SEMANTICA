@@ -26,7 +26,7 @@ Título Ex:<h2>
 ---
 ## `🔥OBS: Quando colocamos 3 traços, acrescentamos uma linha horizontal.`
 
- ## `💫Guia de formatação: The Markdown: list of commands markdown`
+## `💫Guia de formatação: The Markdown: list of commands markdown`
 ```
 Texto em **negrito** com asteriscos.
 
@@ -41,7 +41,7 @@ Texto __combinado__ com *underline* e asterico.
 ~~Um texto riscado.~~
 ```
 
- ## `💫Marcador de código`
+## `💫Marcador de código`
  
 `Utilizando aspas triplas conseguimos abrir a marcação de código: "While do", como exemplo abaixo:
 Ao lado da primeira aspas triplas se coloca o nome da linguagem, que caracteriza um efeito bem legal, até mesmo indica a linguagem:`
@@ -74,11 +74,10 @@ function selecionaElemento() {
 ## `💫Adicionando foto - Markdown`
 <div align="center">
  
- > **Adicionando sinal de exclamação mais colchete, em colchetes se coloca a descrição e parênteses o endereço url da foto. Exemplo:**
+> **Adicionando sinal de exclamação mais colchete, em colchetes se coloca a descrição e parênteses o endereço url da foto. Exemplo:**
  
  ![Foto-HP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-klPwSgj-aCKUMQgkn40XOGkF5B-WHY_Eug&usqp=CAU)
   </center>
-  <br>
 
 ## `🌟Adicionando tabela e orçamento`
  **Abrir barra vertical no teclado, coloca o nome em cada uma delas, ou seja, o título e depois traços para alinhar às linhas.**
@@ -87,11 +86,9 @@ function selecionaElemento() {
 |:-----------:|:---------------:|:-------------:|
 |    **1**    | **Apple iPad**  |**R$10.500,00**|
 |    **2**    | **Computador**  |**R$5.700,00** |
- -----------------------------------------------
-<br>
+-------------------------------------------------
 
-
-## `Marcadores diferentes para listas`
+## `💫Marcadores diferentes para listas`
 
 > - Traço
 > * Asterisco
@@ -140,11 +137,11 @@ a seguir às diferenças:
 + Esquações menores por exemplo: $10 + 10 = 20$
 + Equações maiores por exemplo: $$\frac{5^5+5^5}{5}$$
 ```
-
 > **Exemplo: Equação em linha**
-
+```
 $10 + 10 = 20$
 $$\frac{5^5+5^5}{5}$$
+```
 
 ## `✨ Adicionando notas de rodapé `
 
@@ -175,11 +172,11 @@ Ao utilizar um repositório que foi alterado por outro desenvolvedor, para que p
 Após esse processo realizamos novas atualizações com novas ideias, empacotamos e enviamos novamente para o repositório com o comando: git push.
 OBS: Assim que vários programadores forem atualizando e melhorando os repositórios com novas melhorias. É comum que esses programadores realizem o comando: git pull request, para serem melhorados ao repositório principal, onde realizamos o comando: git merge e assim serem.
 ```
-## `Diferença de Git para GitHub`
+## `💫Diferença de Git para GitHub`
 > O Git é um programa que realiza o versionamento dos códigos.
 > O GitHub é um servidor na nuvem que armazena os seus códigos.
 
-## `Sintaxe básica HTML`
+## `💫Sintaxe básica HTML`
 ```
 - Se Apertarmos exclamação ! + Tab, temos uma estrutura básica de Html, com tags html, meta, portview e etc.
 - É composta pelo <!DOCTYPE Html>
@@ -192,15 +189,15 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 - “PT-br” – português do Brasil. 
 </html>
 ```
-## Podemos classificar a linguagem html, por exemplo:
------------------------------------
-| Linguagem        | Atributo     |
-|:----------------:|------------: |
-| Espanhol         | Lang=”es”    |              
-| Francês          | Lang=”fr”    |
-| Inglês           | Lang=”en”    |
-| Inglês Britânico | Lang=”en- GB”|                                      
------------------------------------
+##💫 Podemos classificar a linguagem html, por exemplo:
+------------------------------------
+|   Linguagem      |   Atributo    |
+|:----------------:|--------------:|
+| Espanhol         | Lang=”es”     |              
+| Francês          | Lang=”fr”     |
+| Inglês           | Lang=”en”     |
+| Inglês Britânico | Lang=”en- GB” |                                      
+------------------------------------
 
 ## `Tags html, a seguir e seus significados`
 ```
@@ -225,7 +222,7 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
  - Tag <body></body>
    + Conteúdo apresentado ao visitante, escopo, ou seja, o corpo do projeto.
  ```
-## Tags semânticas
+## `💫Tags semânticas`
 > Torna o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
 > O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
 
