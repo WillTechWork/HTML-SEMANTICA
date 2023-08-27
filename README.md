@@ -197,9 +197,9 @@ O GitHub é um servidor na nuvem que armazena os seus códigos.
 | Inglês Britânico        | Lang=”en-GB”  |
 
 ## `Tags html, a seguir e seus significados`
-```
+
 - Tag <head></head>
-  + 
+  +  Pode conter título e links para scripts e folhas de estilos
 - Tag <read></read>
   +  Informações sobre a página.
 - Tag <meta>
@@ -219,7 +219,6 @@ O GitHub é um servidor na nuvem que armazena os seus códigos.
  - Tag <body></body>
    + Conteúdo apresentado ao visitante, escopo, ou seja, o corpo do projeto.
  	
-```
 ## Tags semânticas
 - Tornam o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
 - O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
