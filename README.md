@@ -175,7 +175,19 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 ```
 O Git é um programa que realiza o versionamento dos códigos.
 O GitHub é um servidor na nuvem que armazena os seus códigos.
-
+```
+## `Sintaxe básica HTML`
+```
+- Se Apertarmos exclamação ! + Tab, temos uma estrutura básica de Html, com tags html, meta, portview e etc.
+- É composta pelo <!DOCTYPE Html>
+- Indica que o documento é um arquivo HTML.
+- A tag <html></html> ela representa todo o/ documento.
+<!DOCTYPE html>
+<html>
+<html Lang=”PT-br”>< /HTML>
+ - Linguagem do conteúdo da página.
+- “PT-br” – português do Brasil. 
+</html>
 ```
 
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
