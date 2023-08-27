@@ -142,10 +142,12 @@ a seguir às diferenças:
 ```
 
 > **Exemplo: Equação em linha**
+
 $10 + 10 = 20$
 $$\frac{5^5+5^5}{5}$$
 
 ## `✨ Adicionando notas de rodapé `
+
 ```
 Aqui está uma nota de rodapé simples[^1]. Aqui está uma nota de rodapé mais elaborada[^bignote]. [^1]: Esta é a primeira nota de rodapé.
 [^bignote]: Aqui está uma com vários parágrafos e código. Recuar parágrafos para incluí-los na nota de rodapé.
@@ -159,7 +161,9 @@ Recuar parágrafos para incluí-los na nota de rodapé.
 { meu código }
 Adicione quantos parágrafos desejar. ↩
 ```
+
 ## `🎦 Embutir conteúdos como: Áudio, Imagem, Vídeos etc.`
+
 ```
 Para realizarmos o procedimento de embutir esses tipo de documentos no markdown, apenas utilizar exclamação e colchetes. Por exemplo:![Descrição](Conteúdo)
 ```
@@ -172,10 +176,9 @@ Após esse processo realizamos novas atualizações com novas ideias, empacotamo
 OBS: Assim que vários programadores forem atualizando e melhorando os repositórios com novas melhorias. É comum que esses programadores realizem o comando: git pull request, para serem melhorados ao repositório principal, onde realizamos o comando: git merge e assim serem.
 ```
 ## `Diferença de Git para GitHub`
-```
-O Git é um programa que realiza o versionamento dos códigos.
-O GitHub é um servidor na nuvem que armazena os seus códigos.
-```
+> O Git é um programa que realiza o versionamento dos códigos.
+> O GitHub é um servidor na nuvem que armazena os seus códigos.
+
 ## `Sintaxe básica HTML`
 ```
 - Se Apertarmos exclamação ! + Tab, temos uma estrutura básica de Html, com tags html, meta, portview e etc.
@@ -190,7 +193,6 @@ O GitHub é um servidor na nuvem que armazena os seus códigos.
 </html>
 ```
 ## Podemos classificar a linguagem html, por exemplo:
-
 -----------------------------------
 | Linguagem        | Atributo     |
 |:----------------:|------------: |
@@ -222,10 +224,10 @@ O GitHub é um servidor na nuvem que armazena os seus códigos.
    + Define o título que vai aparecer no navegador
  - Tag <body></body>
    + Conteúdo apresentado ao visitante, escopo, ou seja, o corpo do projeto.
- ```	
+ ```
 ## Tags semânticas
-- Torna o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
-- O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
+> Torna o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
+> O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
 
 
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
