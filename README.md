@@ -183,10 +183,16 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 - Indica que o documento é um arquivo HTML.
 - A tag <html></html> ela representa todo o/ documento.
 <!DOCTYPE html>
-<html>
-<html Lang=”PT-br”>< /HTML>
+<html> Lang=”PT-br”>< /HTML>
  - Linguagem do conteúdo da página.
-- “PT-br” – português do Brasil. 
+- “PT-br” – português do Brasil.
+<body>
+<header></header>
+<nav></nav>
+<main></main>
+<aside></aside>
+<footer></footer>
+</body>
 </html>
 ```
 ##💫 Podemos classificar a linguagem html, por exemplo:
@@ -201,35 +207,48 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 
 ## `Tags html, a seguir e seus significados`
 ```
-- Tag <head></head>
-  +  Pode conter título e links para scripts e folhas de estilos
-- Tag <read></read>
-  +  Informações sobre a página.
-- Tag <meta>
-   + Define as informações;
-   + Conjunto de caracteres;
-   +  Descrição da página;
-   +  Palavras chaves;
-   + Autor do documento;
-   + Configuração de janela de visualização.
++ Tag <head></head>
+ - Informações contendo links, tag meta, script, estilo e título. 
++  Tag <read></read>
+ - Informações sobre a página.
++ Tag <meta>
+ - Define as informações;
++ Conjunto de caracteres;
+ -  Descrição da página;
++  Palavras chaves;
+ - Autor do documento;
++ Configuração de janela de visualização.
  - Tag <meta charset=”utf-8”>
-   + Conjunto de caracteres.
-   + UTF-8 (UCS Transformation Format 8)
- - Tag <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
-   + Configuração da janela de visualização
- - Tag <tittle></tittle>
-   + Define o título que vai aparecer no navegador
- - Tag <body></body>
-   + Conteúdo apresentado ao visitante, escopo, ou seja, o corpo do projeto.
- ```
++ Conjunto de caracteres.
+  -  UTF-8 (UCS Transformation Format 8)
++ Tag <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+  -  Configuração da janela de visualização
++  Tag <tittle></tittle>
+  -  Define o título que vai aparecer no navegador
++   Tag <body></body>
+  -   Define todo conteúdo apresentado ao visitante
++   Tag semânticas
+ -   Tornam o código mais claro para programadores, browsers e buscadores.
++   O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking de busca.
+ -   Tag <header></header>
++   Define o cabeçalho, irá apresentar o banner, logo, formulário de pesquisa ícones, menu de navegação.
+ -   Tag <nav></nav>
++   Define o menu.
+ -  Tag <main></main>
++   Agrupa o conjunto principal da página ou aplicação.
+ -   Tag <aside></aside>
++   Conteúdo relacionado ao principal.
+ - Tag <footer></footer>
++  O conteúdo de rodapé como informações de autoria, direitos autorais, contato, mapa do site, links, documentos relacionados
+ 	```
+
 ## `💫Tags semânticas`
 > Torna o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
 > O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
 
 
 ![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
-<div align="center">
+
  
- **`🌟Créditos:`** **`WillTechWork🌟`**
-</div>
+🌟Créditos:WillTechWork🌟
 
