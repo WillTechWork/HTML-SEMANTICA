@@ -206,7 +206,7 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 ------------------------------------
 
 ## `Tags html, a seguir e seus significados`
-```
+
 + Tag <head></head>
  - Informações contendo links, tag meta, script, estilo e título. 
 +  Tag <read></read>
@@ -240,7 +240,7 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 +   Conteúdo relacionado ao principal.
  - Tag <footer></footer>
 +  O conteúdo de rodapé como informações de autoria, direitos autorais, contato, mapa do site, links, documentos relacionados
- 	```
+ 	
 
 ## `💫Tags semânticas`
 > Torna o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
