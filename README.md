@@ -247,8 +247,7 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 > O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
 
 
-![Varinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa1OE_9YcyJTZaLACBDSmHg76wfUK4X_mOQ&usqp=CAU)
 
- 
 🌟Créditos:WillTechWork🌟
+
 
