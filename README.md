@@ -195,7 +195,7 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 </body>
 </html>
 ```
-##💫 Podemos classificar a linguagem html, por exemplo:
+## `💫 Podemos classificar a linguagem html, por exemplo:`
 ------------------------------------
 |   Linguagem      |   Atributo    |
 |:----------------:|--------------:|
