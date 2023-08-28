@@ -205,7 +205,7 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 | Inglês Britânico | Lang=”en- GB” |                                      
 ------------------------------------
 
-# `O melhor amigo do programador`
+# `O melhor amigo do programador/desenvolvedor`
 [W3S-SCHOOLS](https://www.w3schools.com)
 
 ## `Tags html, a seguir e seus significados`
