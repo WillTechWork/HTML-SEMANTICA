@@ -195,7 +195,7 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 </body>
 </html>
 ```
-## `💫 Podemos classificar a linguagem html, por exemplo:`
+## `💫 Podemos classificar a linguagem html, por exemplo`
 ------------------------------------
 |   Linguagem      |   Atributo    |
 |:----------------:|--------------:|
@@ -204,6 +204,9 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 | Inglês           | Lang=”en”     |
 | Inglês Britânico | Lang=”en- GB” |                                      
 ------------------------------------
+
+# `O melhor amigo do programador`
+[W3S-SCHOOLS](https://www.w3schools.com)
 
 ## `Tags html, a seguir e seus significados`
 ```
@@ -245,6 +248,7 @@ OBS: Assim que vários programadores forem atualizando e melhorando os repositó
 ## `💫Tags semânticas`
 > Torna o código mais claro para todos os programadores/desenvolvedores, browser e buscadores de pesquisa na web.
 > O conteúdo do site é usado como palavras-chaves pelos buscadores, influenciando no ranking das buscas.
+
 
 
 
