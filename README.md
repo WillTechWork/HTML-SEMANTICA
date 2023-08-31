@@ -4,6 +4,7 @@
 ![Logo-Ford](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGDshYB1VGo9GgC8mgUq7gO9PL3aZ_mZ5hQ&usqp=CAU)
 ![Logo-Volkswagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasz-aV_VFbyGdGzChQVF_UlFS1KKClwCMdw&usqp=CAU)
 </div>
+<!-- Estudar: https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/-->
 
 ## `✨HTML-SEMANTICA, Formas de escrever`
 ```
