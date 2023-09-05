@@ -3,11 +3,11 @@
 <div align="center">
  
 ![Imagem Tim Berners-Lee](https://itsfoss.com/content/images/wordpress/2018/09/tim-berners-lee-solid-project.jpeg)
+
 <div align="center">
  
 ![Logo-Ford](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGDshYB1VGo9GgC8mgUq7gO9PL3aZ_mZ5hQ&usqp=CAU)
 ![Logo-Volkswagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQasz-aV_VFbyGdGzChQVF_UlFS1KKClwCMdw&usqp=CAU)
-</div>
 
 ## `✨HTML-SEMANTICA, Formas de escrever`
 ```
@@ -43,6 +43,7 @@ Texto __combinado__ com *underline* e asterico.
 ==Um texto em destaque.==
 
 ~~Um texto riscado.~~
+
 ```
 
 ## `💫Marcador de código`
@@ -58,6 +59,7 @@ end
 ## `✨Outro exemplo:`
 > Aspas triplas para adicionar comentário.
 > Método console.log() JavaScript.
+> 
 ```javascript
 function selecionaElemento() {
   const body = document.
