@@ -1,4 +1,8 @@
 # `🌟HTML- A SEMANTICA: MARKDOWN - Dando sentido na estrutura em linguagem HTML🌟`
+
+<div align="center">
+ 
+![Imagem Tim Berners-Lee](https://itsfoss.com/content/images/wordpress/2018/09/tim-berners-lee-solid-project.jpeg)
 <div align="center">
  
 ![Logo-Ford](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGDshYB1VGo9GgC8mgUq7gO9PL3aZ_mZ5hQ&usqp=CAU)
@@ -95,31 +99,37 @@ function selecionaElemento() {
 > + Sinal de mais
 
 ## `🥙Lista: ingredientes para o almoço`
- 1. Arroz Japonês
- 2. Momiji
- 3. Shimeji
- 4.  Nori
-  + Shoyu
-  + Pepino
-  + Gergelim
-  + Salmão
+
+|Arroz Japonês    |
+|:---------------:|
+|Momiji           |
+|Shimeji          |
+|Nori             |
+|Shoyu            |
+|Pepino           |
+|Gergelim         |
+|Salmão           |
+-------------------
    
 ## `🍓Lista da feira - não ordenada`
-* Banana
-* Abacate
-* Tomate
-* Beringela
-* Batata doce
-* Mexerica
-*  Alface
+
+|Banana         |
+|:-------------:|
+|Abacate        |
+|Tomate         |
+|Beringela      |
+|Batata doce    |
+|Mexerica       |
+|Alface         |
+----------------
 
 ## `🏹 Lista de tarefas - ordenada`
 
-1. Escovar os dentes
-2. Arrumar a cama
-3. Varrer a casa
-4. Lavar roupa
-5. Estender a roupa
+Escovar os dentes
+Arrumar a cama
+Varrer a casa
+Lavar roupa
+Estender a roupa
 
 ## `🏹 Gerenciador de tarefas - outro exemplo`
 
