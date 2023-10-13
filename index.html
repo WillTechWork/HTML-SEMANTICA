@@ -1,1 +1,253 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <strong>
+        <title>HTML Semântico</title>
+    </strong>
+    <link rel="stylesheet" href="./reset.css">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <header id="topo-pagina">
+        <nav class="menu-principal">
+            <ul>
+                <li>
+                    <a href="./index.html">História</a>
+                </li>
+
+                <li>
+                    <a href="#sobre-nos">Sobre nós</a>
+                </li>
+
+                <li>
+                    <a href="#contato">Contato</a>
+                </li>
+
+            </ul>
+        </nav>
+
+        <center>
+
+            <h1 class="titulo-de-pagina">A História do HTML</h1>
+
+        </center>
+        <p>O HTML foi inventado por Tim Berners-Lee, um físico do centro de pesquisas CERN, na Suíça. Ele surgiu com a
+            ideia de um sistema de hipertexto na internet. Hipertexto significa um texto que possui referências (links)
+            para outros textos que podem ser acessados imediatamente.</p>
+
+        <p>A linguagem HTML foi desenvolvida por Tim Berners-Lee e, na época, em torno de 1989, não se tratava de uma
+            especificação, mas sim de uma forma de comunicação entre pesquisadores. Uma das primeiras funçõe das páginas
+            web era apresentar currículos online de integrantes de universidades e centros de pesquisa americanos.</p>
+    </header>
+
+
+    <center>
+
+        <h2 class="titulo-de-secao">Tim Berners-Lee</h2>
+
+    </center>
+    <center><strong>
+            <p>8 de junho de 1955 (idade 68 anos), Londres, Reino Unido</p>
+        </strong></center>
+    <Center><img width="400" height="300"
+            src="https://s2.glbimg.com/3Uj9ebXuYnW57l7IXou0ASO_BIU=/e.glbimg.com/og/ed/f/original/2019/06/07/sir_tim_berners-lee.jpg"
+            alt="Perfil"></Center>
+
+    <article>
+        <header>
+            <center>
+                <h1 class="titulo-de-artigo">Explicação sobre a estrutura HTML</h1>
+            </center>
+            <h2 class="subtitulo-de-artigo">Seções básicas de um documento:</h2>
+            <p>As páginas da web podem ser muito diferentes umas das outras, mas todas
+                tendem a compartilhar componentes padrão semelhantes, a menos que uma página exiba um vídeo ou um jogo
+                em tela cheia, seja parte de algum tipo de projeto de arte ou seja mal estruturado:
+                cabeçalho (cabeçalho)
+                Normalmente, uma grande faixa na parte superior com um grande título e / ou logotipo. É aí que as
+                principais informações comuns sobre um site geralmente ficam de uma página para outra.
+            <p class="paragrafo-de-artigo">barra de navegação</p>
+            <p>
+                Links para os principais detalhes do site; geralmente representado por botões de menu, links ou guias.
+                Como o título, esse conteúdo geralmente permanece consistente de uma página para outra - ter uma
+                navegação inconsistente em seu site leva a usuários confusos e frustrados. Muitos web designers
+                consideram a barra de navegação parte do cabeçalho em vez de um componente individual, mas isso não é um
+                requisito; na verdade, alguns também argumentam que ter os dois separados é melhor para acessibilidade,
+                já que os leitores de tela podem ler melhor os dois recursos se estiverem separados.</p>
+
+
+            <p class="paragrafo-de-artigo">Conteúdo principal</p>
+            <p>
+                Uma grande área no centro que contém a maior parte do conteúdo exclusivo de uma determinada página da
+                Web, por exemplo, o vídeo que você deseja assistir ou a história principal que você está lendo ou o mapa
+                que deseja visualizar ou os manchetes de notícias, etc. Esta é a única parte do site que irá variar de
+                página para página!</p>
+
+            <p class="paragrafo-de-artigo">barra lateral (barra lateral)</p>
+            <p>Algumas informações periféricas, links, citações, anúncios etc. Geralmente, isso é contextual ao conteúdo
+                principal (por exemplo, em uma página de um artigo de notícias, a barra lateral pode conter a biografia
+                do autor ou links para artigos relacionados), mas há Também há casos em que você encontrará alguns
+                elementos recorrentes como um sistema de navegação secundário.</p>
+            <p class="paragrafo-de-artigo">rodapé (rodapé)</p>
+            <p>Uma faixa na parte inferior da página que geralmente contém letras pequenas, avisos de direitos autorais
+                ou informações de contato. É um lugar para colocar informações comuns (como o cabeçalho), mas geralmente
+                essas informações não são críticas ou secundárias ao próprio site. O rodapé também é usado às vezes para
+                fins de SEO , fornecendo links para acesso rápido a conteúdo popular.</p>
+        </header>
+    </article>
+
+    <article>
+        <header>
+            <center>
+                <h1 class="titulo-de-artigo">HTML para estruturar conteúdo</h1>
+            </center>
+            <h2 class="subtitulo-de-artigo">O exemplo simples:</h2>
+            <p>O exemplo simples mostrado acima não é bonito, mas é perfeitamente aceitável
+                para ilustrar um exemplo típico de layout de site. Alguns sites têm mais colunas, alguns são bem mais
+                complexos, mas você tem uma ideia. Com o CSS certo, você poderia usar praticamente todos os elementos
+                para agrupar as diferentes reservas e fazer com que parecesse como você queria, mas como descrito acima,
+                precisamos respeitar a semântica e usar o elemento certo para o trabalho certo</p>
+        </header>
+    </article>
+
+    <article>
+        <header>
+            <center>
+                <h1 class="titulo-de-artigo">Principais Tags Semânticas</h1>
+            </center>
+
+            <h2 class="subtitulo-de-artigo">Exemplos abaixo:</h2>
+            <p>cabeçalho : entre chaves <> header.</p>
+            <p>barra de navegação: <> nav.</p>
+            <p>conteúdo principal: <> main.</p>
+            
+
+        </header>
+    </article>
+
+    <article>
+        <header>
+            <h1 class="titulo-de-artigo">Lorem ipsum dolor sit amet.</h1>
+            <h2 class="subtitulo-de-artigo">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius,
+                architecto?
+            </h2>
+            <p class="paragrafo-de-artigo">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni eius quos
+                ea
+                ipsa qui, ex iusto suscipit assumenda hic inventore.</p>
+            <p class="paragrafo-de-artigo">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum esse laboriosam rem tempora
+                aspernatur
+                veritatis, voluptatum aliquam recusandae incidunt ratione dolorem blanditiis, facilis officiis sint,
+                doloribus voluptates commodi delectus magnam adipisci eum quo quaerat maxime error rerum!
+                Voluptates, ea
+                dicta!
+            </p>
+            <p class="paragrafo-de-artigo">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum esse laboriosam rem tempora
+                aspernatur
+                veritatis, voluptatum aliquam recusandae incidunt ratione dolorem blanditiis, facilis officiis sint,
+                doloribus voluptates commodi delectus magnam adipisci eum quo quaerat maxime error rerum!
+                Voluptates, ea
+                dicta!
+            </p>
+            <p class="paragrafo-de-artigo">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum esse laboriosam rem tempora
+                aspernatur
+                veritatis, voluptatum aliquam recusandae incidunt ratione dolorem blanditiis, facilis officiis sint,
+                doloribus voluptates commodi delectus magnam adipisci eum quo quaerat maxime error rerum!
+                Voluptates, ea
+                dicta!
+            </p>
+            <p class="paragrafo-de-artigo">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum esse laboriosam rem tempora
+                aspernatur
+                veritatis, voluptatum aliquam recusandae incidunt ratione dolorem blanditiis, facilis officiis sint,
+                doloribus voluptates commodi delectus magnam adipisci eum quo quaerat maxime error rerum!
+                Voluptates, ea
+                dicta!
+            </p>
+        </header>
+    </article>
+
+    <section id="sobre-nos">
+
+        <a href="#topo-pagina">Voltar para o topo da página</a>
+
+        <h2 class="titulo-de-secao">Sobre nós</h2>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt aperiam, ipsa nobis nostrum asperiores
+            aut, quia repudiandae eveniet odit iusto illo dicta ipsum mollitia necessitatibus!</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum voluptate facere at excepturi dignissimos
+            sit
+            nesciunt minima voluptates quam ex ipsum sint natus temporibus, ad reiciendis maiores ab obcaecati
+            repudiandae sunt ut, inventore et culpa?</p>
+
+        <p>Ford &lt;ENTER&gt;</p>
+
+    </section>
+
+    <details>
+        <summary>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, culpa.</summary>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit qui quibusdam sed dolore facilis porro neque
+        quasi
+        odio tempore maiores. Blanditiis tempore impedit quam mollitia quisquam distinctio dolorum, earum sint.
+    </details>
+
+    <!-- Crie uma nova seção para ser a seção de "contato" da página. Essa seção deve ter dois parágrafos como a seção "Sobre nós". A página deve conter um link no menu de navegação para esta seção e esta seção deve ter um link para voltar ao topo da página. -->
+
+    <section id="contato">
+
+        <a href="#topo-pagina">Voltar para o topo da página</a>
+
+        <h2 class="titulo-de-secao">Contato</h2>
+
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi, tenetur ullam voluptate neque quos
+            voluptates earum ipsam sit fuga! Quasi esse corrupti, vel facilis non asperiores iure pariatur odio
+            unde!
+        </p>
+
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni ullam inventore repudiandae, enim magnam
+            nostrum consequatur accusantium explicabo natus corrupti, officiis earum quasi tempora quibusdam.</p>
+
+    </section>
+
+    <pre>
+    &lt;html&gt;
+        &lt;head&gt;
+            &lt;title&gt;Título da página&lt;/title&gt;
+        &lt;/head&gt;
+
+    &lt;/html&gt;
+    </pre>
+
+    <code>
+    &lt;html&gt;
+        &lt;head&gt;
+            &lt;title&gt;Título da página&lt;/title&gt;
+        &lt;/head&gt;
+
+    &lt;/html&gt;
+    </code>
+
+    <footer>
+        <!-- Proibido! -->
+        <!-- <header></header> -->
+
+        <a href="#topo-pagina">Voltar para o topo da página</a>
+
+        <p>
+            Link para o <a href="https://github.com/JoaoRoccella">meu GitHub</a>
+        </p>
+
+        <address>
+            Rua Moreira de Godói, 226 - Ipiranga - São Paulo - SP
+        </address>
+    </footer>
+
+</body>
+
+</html>
